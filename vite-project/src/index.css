@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+=======
+.card{
+border: 1px solid #cdc7c7;
+border-radius: 10px;
+padding: 10px;
+margin: 40px;
+BOx-SHADOW: 5px 5px 5px #000;
+text-align: center;
+max-width: 250px;
+display:inline-block ;
+}
+
+.card .card-image{
+
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.card.card-title{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0%;
+color:  rgb(11, 11, 13);
+}
+.card.card-text{
+  font-family: Arial, Helvetica, sans-serif;
+}
+>>>>>>> 28fd9d329988bf1164b946ad840acc9963476917

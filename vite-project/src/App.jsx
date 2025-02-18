@@ -1,16 +1,19 @@
-import Food from "./food";
-import Footer from "./Footer";
-import Header from "./header"
+import Card from "./Card";
+
+
 
 function App() {
-return (
-  <>
-<Header/>
-<Food/>
-<Footer/>
 
-</>
-);
+    return (
+    <>
+    
+    <Card/>
+    <Card/>
+    <Card/>
+    <Card/>
+    </>
+    );
+
 }
 
-export default App
+export default App;

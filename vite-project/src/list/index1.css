@@ -1,0 +1,21 @@
+.list-cat{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #372a2a;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.list-itm{
+font-size: 2em;
+list-style: none;
+color: #4f4343;
+text-align: center;
+margin: 0;
+}
+.list-itm:hover{
+    color: #d04747;
+    cursor: pointer;
+}
